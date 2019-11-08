@@ -10,7 +10,7 @@ public class ArrayListConccept {
 		ar.add(300);//3
 		
 		System.out.println(ar.size());
-		
+	/*	
 		ar.add(400);//4
 		ar.add(500);//5
 	
@@ -43,7 +43,7 @@ public class ArrayListConccept {
 		ar2.add("TOM");
 		//ar2.add(100);
 		
-		
+		*/
 		
 
 	}
